@@ -16,3 +16,13 @@ I love China I love you good good study day day up
 I love China I love you good good study day day p
 I love China I love you good good study day day up
 I love China I love you good good study day day up
+git pull git-demo master git push git-demo master
+git init
+git status
+git add
+git commit -m
+git reflog
+git log
+git merge
+git reset --hard
+git 
